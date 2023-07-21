@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WelcomeUi</string>
+    <string name="log_in">Log In</string>
+    <string name="nice_to_see_you_again">Nice to see you again!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="register">Register.</string>
+    <string name="you_are_not_a_member">You are not a member?</string>
+    <string name="login">Login.</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="password">password</string>
+    <string name="email_address">email address</string>
+    <string name="or">OR</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawe close</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="update_account">Update Account</string>
+    <string name="email">email</string>
+    <string name="view_email">email</string>
+    <string name="username">username</string>
+    <string name="register_here">Register Here!</string>
+    <string name="user_name">username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_a_member">Already a member?</string>
+</resources>
